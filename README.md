@@ -90,5 +90,5 @@ Caso queira testar o fluxo completo sem o ESP32 em mãos, abra um **segundo term
 
 ## 👥 Autores (Módulos de Hardware e Backend)
 
-* **Felipe Lima** — *Aquisição Física, Hardware (ESP32 + RC522) e Publicação MQTT (Aluno 1)*
-* **Pedro Prasidos** — *Arquitetura MQTT, Lógica de Controle e Estado do Backend (Aluno 2)*
+* **Felipe Lima** — *Aquisição Física, Hardware (ESP32 + RC522) e Publicação MQTT*
+* **Pedro Prasidos** — *Arquitetura MQTT, Lógica de Controle e Estado do Backend*
